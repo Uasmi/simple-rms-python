@@ -1,2 +1,2 @@
 # simple-rms-python
-Simple RMS based on opencv
+Simple Audio RMS based on opencv
